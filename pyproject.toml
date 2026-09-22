@@ -1,5 +1,5 @@
 [project]
-name = "bluetoothpairingclaude"
+name = "zenbook-duo-2026-linux-keyboard-pairing"
 version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = []
